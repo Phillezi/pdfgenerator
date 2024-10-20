@@ -18,7 +18,7 @@ pdfgenerator
 If go is installed you can run
 
 ```bash
-go install github.com/Phillezi/pdfgenerator
+go install github.com/Phillezi/pdfgenerator@latest
 ```
 
 ### Download and install binary
