@@ -4,9 +4,10 @@ on:
   push:
     branches: ["main"]
     paths-ignore:
-      # - README.md
+      - README.md
+      - .pdfconfig.yaml
       - .gitignore
-      #- .github/**
+      - .github/**
       - LICENSE
 
 jobs:
