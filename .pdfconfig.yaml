@@ -1,0 +1,15 @@
+# Example config file for our labb2 project
+outputFile: "hi1031_labb2.pdf"
+includePatterns:
+  - "HI1031_labb2/**/**/*.cs"
+  - "HI1031_labb2/**/*.cs"
+  - "HI1031_labb2/**/**/*.cs"
+excludePatterns:
+  - "HI1031_labb2/Migrations/*"
+  - "HI1031_labb2/Migrations/**/*"
+  - "HI1031_labb2/Views/*"
+  - "HI1031_labb2/wwwroot/*"
+  - "HI1031_labb2/Areas/Identity/pages/*"
+  - "HI1031_labb2/obj/*"
+  - "HI1031_labb2/bin/*"
+  - "HI1031_labb2/HI1031_labb2.csproj"
