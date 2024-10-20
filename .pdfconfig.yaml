@@ -1,6 +1,7 @@
 # Example config file for our labb2 project
 outputFile: "hi1031_labb2.pdf"
 includePatterns:
+  - "HI1031_labb2/*.cs"
   - "HI1031_labb2/**/**/*.cs"
   - "HI1031_labb2/**/*.cs"
   - "HI1031_labb2/**/**/*.cs"
